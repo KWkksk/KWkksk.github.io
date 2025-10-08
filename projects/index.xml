@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我的作品集 on 我的模型作品集</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://kwkksk.github.io/projects/</link>
     <description>Recent content in 我的作品集 on 我的模型作品集</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kwkksk.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一个SOLIDWORKS模型：国际象棋兵</title>
-      <link>http://localhost:1313/projects/first-model/</link>
+      <link>https://kwkksk.github.io/projects/first-model/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/first-model/</guid>
+      <guid>https://kwkksk.github.io/projects/first-model/</guid>
       <description>&lt;p&gt;这是我学习SOLIDWORKS后完成的第一个作品！通过这个项目，我掌握了&lt;strong&gt;旋转&lt;/strong&gt;和&lt;strong&gt;倒角&lt;/strong&gt;命令。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;设计心得：&lt;/strong&gt; 看似简单，但对草图约束的要求很高。&lt;/p&gt;</description>
     </item>
   </channel>
