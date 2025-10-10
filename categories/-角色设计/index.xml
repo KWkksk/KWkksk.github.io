@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的作品集 on 我的模型作品集</title>
-    <link>https://kwkksk.github.io/projects/</link>
-    <description>Recent content in 我的作品集 on 我的模型作品集</description>
+    <title>[ &#34;角色设计&#34;] on 我的模型作品集</title>
+    <link>https://kwkksk.github.io/categories/-%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1/</link>
+    <description>Recent content in [ &#34;角色设计&#34;] on 我的模型作品集</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kwkksk.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>与雪女向蟹北行</title>
-      <link>https://kwkksk.github.io/projects/%E4%B8%8E%E9%9B%AA%E5%A5%B3%E5%90%91%E8%9F%B9%E5%8C%97%E8%A1%8C/</link>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://kwkksk.github.io/projects/%E4%B8%8E%E9%9B%AA%E5%A5%B3%E5%90%91%E8%9F%B9%E5%8C%97%E8%A1%8C/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://kwkksk.github.io/images/%E4%B8%8E%E9%9B%AA%E5%A5%B3%E5%90%91%E8%9F%B9%E5%8C%97%E8%A1%8C.jpg&#34; alt=&#34;作品展示图&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;项目概述&#34;&gt;项目概述&lt;/h2&gt;&#xA;&lt;p&gt;这是基于《与雪女向蟹北行》漫画创作的插图作品&lt;/p&gt;&#xA;&lt;h2 id=&#34;作品特点&#34;&gt;作品特点&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;氛围营造&lt;/strong&gt;：注重画面情绪和故事感的表达&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;构图设计&lt;/strong&gt;：尝试不同的视觉构图方式&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;风格探索&lt;/strong&gt;：在创作中寻找个人艺术风格&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;创作收获&#34;&gt;创作收获&lt;/h2&gt;&#xA;&lt;p&gt;通过这个插图项目，我在数字绘画和场景构建方面获得了新的体验和认识。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;创作心得：&lt;/strong&gt; 每一次创作都是对技术和表达能力的挑战与提升。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我的第一个SOLIDWORKS模型：国际象棋兵</title>
-      <link>https://kwkksk.github.io/projects/first-model/</link>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://kwkksk.github.io/projects/first-model/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://kwkksk.github.io/images/chess-pawn.jpg&#34; alt=&#34;我的国际象棋兵作品&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;这是我学习SOLIDWORKS后完成的第一个作品！通过这个项目，我掌握了&lt;strong&gt;旋转&lt;/strong&gt;和&lt;strong&gt;倒角&lt;/strong&gt;命令。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;设计心得：&lt;/strong&gt; 看似简单，但对草图约束的要求很高。&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kwkksk.github.io/categories/-%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>神のラプソディ CG作品</title>
       <link>https://kwkksk.github.io/projects/%EF%A8%99%E3%81%AE%E3%83%A9%E3%83%97%E3%82%BD%E3%83%87%E3%82%A3cg/</link>
