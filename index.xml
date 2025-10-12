@@ -6,8 +6,15 @@
     <description>Recent content in Kw暫存處 on 我的模型作品集</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kwkksk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>零件2</title>
+      <link>https://kwkksk.github.io/projects/%E9%9B%B6%E4%BB%B62/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://kwkksk.github.io/projects/%E9%9B%B6%E4%BB%B62/</guid>
+      <description>&lt;p&gt;![零件2三维模型](/images/parts02.jpg)&lt;/p&gt;&#xA;&lt;p&gt;## 项目概述&lt;/p&gt;&#xA;&lt;p&gt;这是继零件1之后的第二个SOLIDWORKS建模作品&lt;/p&gt;&#xA;&lt;p&gt;## 设计特点&lt;/p&gt;&#xA;&lt;p&gt;- **多特征组合**：运用拉伸、切除、筋等多种特征&lt;/p&gt;&#xA;&lt;p&gt;- **参数化关联**：确保各特征间的尺寸关联和约束&lt;/p&gt;&#xA;&lt;p&gt;**小结·：**零件2，这次渲染应该算是一个成功，即便是很简便的渲染&lt;/p&gt;</description>
+    </item>
     <item>
       <title>零件1</title>
       <link>https://kwkksk.github.io/projects/%E9%9B%B6%E4%BB%B61/</link>
