@@ -6,8 +6,15 @@
     <description>Recent content in Kw暫存處 on 我的模型作品集</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kwkksk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>四连杆机构</title>
+      <link>https://kwkksk.github.io/projects/%E5%9B%9B%E6%9D%86%E8%BF%9E%E6%9D%86/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://kwkksk.github.io/projects/%E5%9B%9B%E6%9D%86%E8%BF%9E%E6%9D%86/</guid>
+      <description>&lt;p&gt;![作品展示图](/images/assembly01.jpg)&lt;/p&gt;&#xA;&lt;p&gt;## 项目概述&lt;/p&gt;&#xA;&lt;p&gt;作品背景·:最近学的曲柄摇杆机构&lt;/p&gt;&#xA;&lt;p&gt;## 设计特点&lt;/p&gt;&#xA;&lt;p&gt;\- \*\*使用命令\*\*：主要运用装配，圆槽，圆，motion&lt;/p&gt;&#xA;&lt;p&gt;## 技术收获&lt;/p&gt;&#xA;&lt;p&gt;了解了motion分析及运动轨迹提取&lt;/p&gt;&#xA;&lt;p&gt;**小结：** 最近学的结构，经常见到所以学习了一下如何做它的模型，顺便&lt;/p&gt;&#xA;&lt;p&gt;了解了motion分析插件并体验了动画轨迹&lt;/p&gt;</description>
+    </item>
     <item>
       <title>零件2</title>
       <link>https://kwkksk.github.io/projects/%E9%9B%B6%E4%BB%B62/</link>
