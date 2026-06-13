@@ -6,8 +6,15 @@
     <description>Recent content in 我的作品集 on 模型作品集</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kwkksk.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>零件10</title>
+      <link>https://kwkksk.github.io/projects/part10/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://kwkksk.github.io/projects/part10/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://kwkksk.github.io/images/parts10.JPG&#34; alt=&#34;零件10三维模型&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>零件8</title>
       <link>https://kwkksk.github.io/projects/part8/</link>
@@ -28,6 +35,13 @@
       <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://kwkksk.github.io/projects/part06/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://kwkksk.github.io/images/parts06.JPG&#34; alt=&#34;零件6三维模型&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>零件9</title>
+      <link>https://kwkksk.github.io/projects/part09/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://kwkksk.github.io/projects/part09/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://kwkksk.github.io/images/parts09.JPG&#34; alt=&#34;零件9三维模型&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>零件5</title>
